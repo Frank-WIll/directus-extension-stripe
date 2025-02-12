@@ -43,18 +43,18 @@
 		"add": "directus-extension add"
 	},
 	"devDependencies": {
-		"@directus/extensions-sdk": "^12.1.4",
-		"@directus/types": "^12.2.2",
+		"@directus/extensions-sdk": "^13.0.1",
+		"@directus/types": "^13.0.0",
 		"@types/express": "^5.0.0",
-		"@types/jsonwebtoken": "^9.0.7",
-		"@types/node": "^22.10.5",
-		"typescript": "^5.7.2",
+		"@types/jsonwebtoken": "^9.0.8",
+		"@types/node": "^22.13.1",
+		"typescript": "^5.7.3",
 		"vue": "^3.5.13"
 	},
 	"dependencies": {
 		"body-parser": "^1.20.3",
 		"jsonwebtoken": "^9.0.2",
-		"stripe": "^17.5.0"
+		"stripe": "^17.6.0"
 	},
 	"main": "index.js",
 	"directories": {
